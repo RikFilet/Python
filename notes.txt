@@ -1,0 +1,13 @@
+programma dat de basis huur pakt en hier voor elk jaar na het 1e jaar 
+de huur met 1.75% verhoogt
+
+hoeveel jaar wil je huren = 3
+
+basishuur 
+
+nieuwe huur = basishuur / 100 * 101.75
+
+basishuur = nieuwe huur
+
+voor elk jaar dat je wilt huren -1 moet je dit loopen
+
